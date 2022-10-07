@@ -16,7 +16,7 @@
 
 ## Importações/Instalações
 
-<img src="https://github.com/batista29/graficos-python/blob/main/grafico-dinamico-python/img/imports.png" height="600vh">
+<img src="https://github.com/batista29/graficos-python/blob/main/grafico-dinamico-python/img/imports.png" height="300vh">
 
 ## Autor
 * Natã Batista Fernandes
