@@ -10,9 +10,13 @@
 
 * Github
 
+## Imagens
+
+<img src="https://github.com/batista29/graficos-python/blob/main/grafico-dinamico-python/img/grafico.png" height="600vh">
+
 ## Importações/Instalações
 
-<img src="" height="600vh">
+<img src="https://github.com/batista29/graficos-python/blob/main/grafico-dinamico-python/img/imports.png" height="600vh">
 
 ## Autor
 * Natã Batista Fernandes
