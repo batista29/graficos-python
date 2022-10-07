@@ -18,6 +18,9 @@
 
 <img src="https://github.com/batista29/graficos-python/blob/main/grafico-dinamico-python/img/imports.png" height="50vh">
 
+* pip install numpy
+* python -m pip install -U matplotlib
+
 ## Autor
 * Natã Batista Fernandes
 
